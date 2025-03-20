@@ -1,0 +1,35 @@
+# Core dependencies
+streamlit
+pdfplumber
+pymupdf
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-vertexai
+langchain-google-genai  # Requires google-ai-generativelanguage>=0.6.16
+
+# Vector store
+chromadb
+faiss-cpu
+
+# Embeddings and LLM
+google-cloud-aiplatform  # Verified compatible with VertexAI 2.0.15
+google-generativeai  # Latest available version with google-ai-generativelanguage==0.6.17
+
+# Environment variables
+python-dotenv
+
+# Visualization and UI components
+matplotlib
+plotly
+
+# Utils
+tqdm
+
+# Evaluation
+scikit-learn
+rouge-score
+nltk
+numpy
+pandas

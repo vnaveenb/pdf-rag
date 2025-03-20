@@ -1,0 +1,64 @@
+[
+    {
+      "question": "What are the primary factors driving the growth of credit card usage in India?",
+      "answer": "The report identifies increased digital adoption, evolving consumer behavior, and the expanding middle class as key factors driving the growth of credit card usage in India.",
+      "sources": [
+        "Credit_Cards_A_Sectoral_Analysis.pdf:Abstract",
+        "Credit_Cards_A_Sectoral_Analysis.pdf:Introduction"
+      ]
+    },
+    {
+      "question": "How does the paper conduct the sectoral analysis of the Indian credit card industry?",
+      "answer": "It performs a SWOT analysis, evaluating the strengths, weaknesses, opportunities, and threats of major issuers such as HDFC, SBI, and ICICI, while also considering market trends.",
+      "sources": [
+        "Credit_Cards_A_Sectoral_Analysis.pdf:SWOT",
+        "Credit_Cards_A_Sectoral_Analysis.pdf:Conclusion"
+      ]
+    },
+    {
+      "question": "What are the key challenges for banks in 2024 as per Deloitte's outlook?",
+      "answer": "Deloitte's outlook highlights challenges such as a slowing global economy, rising interest rates, increasing deposit costs, and evolving regulatory requirements.",
+      "sources": [
+        "Deloitte_C_Financial_Outlook.pdf:Key_Messages",
+        "Deloitte_C_Financial_Outlook.pdf:Conclusion"
+      ]
+    },
+    {
+      "question": "How do macroeconomic factors like inflation and interest rates impact bank profitability?",
+      "answer": "High inflation and elevated interest rates lead to increased operating costs and squeezed net interest margins, ultimately reducing bank profitability.",
+      "sources": [
+        "Deloitte_C_Financial_Outlook.pdf:Macroeconomic_Factors",
+        "Deloitte_C_Financial_Outlook.pdf:Analysis"
+      ]
+    },
+    {
+      "question": "What are the main fees and charges detailed in the HDFC Credit Cards MITC document?",
+      "answer": "The document lists various fees including joining fees, annual membership fees, cash advance fees, and foreign currency transaction charges, among other service charges.",
+      "sources": [
+        "HDFC_Credit_Cards_B_MITC.pdf:Fees_and_Charges"
+      ]
+    },
+    {
+      "question": "What procedures are outlined for reporting lost or stolen credit cards?",
+      "answer": "It details the process of immediate reporting via toll-free numbers or online platforms, followed by contacting the nearest branch to block the card and initiate further fraud protection measures.",
+      "sources": [
+        "HDFC_Credit_Cards_B_MITC.pdf:Loss_Theft_Misuse"
+      ]
+    },
+    {
+      "question": "What trends are driving the transformation of payments for SMBs according to the VISA report?",
+      "answer": "The report emphasizes trends such as the adoption of real-time payments, digital wallets, QR code transactions, and integrated payment solutions as key drivers for transforming SMB payments.",
+      "sources": [
+        "VISA_D_Payments.pdf:Trends",
+        "VISA_D_Payments.pdf:Overview"
+      ]
+    },
+    {
+      "question": "How is the evolution of payment technologies expected to impact SMB operations?",
+      "answer": "The evolution of payment technologies is expected to streamline payment processes, lower transaction costs, and improve client acquisition and retention for SMBs.",
+      "sources": [
+        "VISA_D_Payments.pdf:Impact",
+        "VISA_D_Payments.pdf:Analysis"
+      ]
+    }
+  ]
